@@ -32,7 +32,16 @@ Welcome to Frejs Github!
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp&nbsp;
   
 </div>
-  
+
+<p>
+  <br>
+  Contact at:
+</p>
+<div>
+  <a href="https://linkedin.com/in/frej-mellberg-7075a2251">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</div>
+
 <p>
   <br>
   <br>
