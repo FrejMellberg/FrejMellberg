@@ -34,6 +34,7 @@ Welcome to Frejs Github!
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp&nbsp;
 </div>
 
 <p>
@@ -49,6 +50,7 @@ Welcome to Frejs Github!
   <br>
   <br>
 </p>
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FrejMellberg)](https://github.com/FrejMellberg/github-readme-stats)
 
