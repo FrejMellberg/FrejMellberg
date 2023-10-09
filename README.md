@@ -42,7 +42,7 @@ Welcome to Frejs Github!
   Contact me at:
 </p>
 <div>
-  <a href="https://linkedin.com/in/frejmellberg">
+  <a href="https://linkedin.com/in/FrejM">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </div>
 
