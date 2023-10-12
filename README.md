@@ -17,7 +17,8 @@ Welcome to Frejs Github!
 
 * Studying Software development at Nackademin, specializing in IoT and Embedded Systems
 * Tinkering with Raspberries and Arduinos 
-* Love programming things that moves
+* Enjoy programming things that moves
+* Discovering frontend ain't that bad
 
 
 
@@ -52,6 +53,11 @@ Welcome to Frejs Github!
 </p>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FrejMellberg)](https://github.com/FrejMellberg/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api?username=FrejMellberg&theme=algolia&show_icons=true)](https://github.com/FrejMellberg)
 
 
+
+[//]: <[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FrejMellberg)](https://github.com/FrejMellberg/github-readme-stats)>
+
+[//]: <![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FrejMellberg&layout=pie&theme=blue-green)>
