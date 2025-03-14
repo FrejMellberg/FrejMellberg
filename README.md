@@ -1,8 +1,8 @@
 
 
-<h1 align="center">
+<!--<h1 align="center">
 Welcome to Frejs Github!
-</h1>
+</h1>-->
 
 
 <div id="header" align="center">
@@ -13,12 +13,12 @@ Welcome to Frejs Github!
   <br>
 </p>
     
-# About me
+<!--# About me
 
 * Studying Software development at Nackademin, specializing in IoT and Embedded Systems
 * Tinkering with Raspberries and Arduinos 
 * Enjoy programming things that moves
-* Discovering frontend ain't that bad
+* Discovering frontend ain't that bad-->
 
 
 
@@ -45,7 +45,7 @@ Welcome to Frejs Github!
 <div>
   <a href="https://linkedin.com/in/FrejM">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-</div>
+</div>](url)
 
 <p>
   <br>
@@ -54,10 +54,10 @@ Welcome to Frejs Github!
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api?username=FrejMellberg&theme=algolia&show_icons=true)](https://github.com/FrejMellberg)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api?username=FrejMellberg&theme=algolia&show_icons=true)](https://github.com/FrejMellberg)
 
 
 
 [//]: <[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FrejMellberg)](https://github.com/FrejMellberg/github-readme-stats)>
 
-[//]: <![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FrejMellberg&layout=pie&theme=blue-green)>
+[//]: <![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FrejMellberg&layout=pie&theme=blue-green)>-->
